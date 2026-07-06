@@ -1,4 +1,4 @@
-# FinGuard — Financial Fraud Risk Detector (Real Data: PaySim + SMOTE)
+# TrustScore — Financial Fraud Risk Detector (Real Data: PaySim + SMOTE)
 
 An end-to-end fraud detection project built on the real, widely-used
 **PaySim** dataset — 6.36 million synthetic mobile-money transactions
