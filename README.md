@@ -115,15 +115,7 @@ Random Forest's confusion matrix: only **1 false positive** and
 4. `newbalanceDest` (9.1%)
 5. `amount` (5.7%)
 
-## 6. Power BI / Tableau Dashboard
-
-Import `outputs/scored_transactions.csv` and build:
-- Table sorted by `fraud_probability` descending
-- Bar chart: transaction count by `risk_flag`
-- Scatter: `amount` vs `errorBalanceOrig`, colored by `risk_flag`
-- KPI card: total flagged amount at risk
-
-## 7. Limitations & Next Steps
+## 6. Limitations & Next Steps
 
 - **Near-perfect scores are a known property of this specific
   dataset**, not a general claim about fraud detection. PaySim
